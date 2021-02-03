@@ -17,5 +17,5 @@
 
 ## Clevel hashing
 ### Lock-free Concurrent Level Hashing for Persistent Memory (ATC'20)
-[Material](https://www.usenix.org/conference/atc20/presentation/chen)
+[Material](https://www.usenix.org/conference/atc20/presentation/chen)  
 [github](https://github.com/chenzhangyu/Clevel-Hashing)
